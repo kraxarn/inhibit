@@ -1,4 +1,4 @@
-module inhibit
+module github.com/kraxarn/inhibit
 
 go 1.26
 
